@@ -1,7 +1,10 @@
 #! /usr/bin/python
 
 __author__ = 'M. Chimal & Pauley'
-
+"""
+Fis Manuel Chimal, Instituto de Ciencias Nucleares,UNAM, mjchimal@gmail.com
+MSc Paulina Ponfifes, Facultad de Ciencias, UNAM, pontifes.pa@gmail.com
+"""
 """
 This script drops duplicate sequence records in a fasta file, keeping only unique records. 
 Uses Biopy modules 
